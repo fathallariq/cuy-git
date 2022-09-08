@@ -1,3 +1,3 @@
 ### cuy-git
 
-<p>git repository management basic</p>
+<p>ini branch staging</p>
