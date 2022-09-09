@@ -1,3 +1,3 @@
 ### cuy-git
 
-<p>ini branch dev</p>
+<p>ini branch main</p>
